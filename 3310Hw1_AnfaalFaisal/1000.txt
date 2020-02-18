@@ -1,0 +1,13 @@
+n= 1000
+Linear search.
+Searching for Rare Shiverpeak Trident...
+Found in bag 2, slot 24. Strength: 389.
+Single search time: 899 nanoseconds.
+Average search time: 1574 nanoseconds.
+Simple sort time: 9423993
+Multi-Merge Sort time: 1163819601
+Binary search.
+Searching for Rare Bandit Musket...
+Item not found
+Single search time: 1666 nanoseconds.
+Average search time: 315 nanoseconds.

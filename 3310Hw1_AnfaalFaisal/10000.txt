@@ -1,0 +1,13 @@
+n= 10000
+Linear search.
+Searching for Rare Warden Torch...
+Found in bag 15, slot 5. Strength: 768.
+Single search time: 4254 nanoseconds.
+Average search time: 2442 nanoseconds.
+Simple sort time: 155257938
+Multi-Merge Sort time: 1151698020
+Binary search.
+Searching for Fine Waterlogged Rifle...
+Found in bag 95411, slot 3. Strength: 606.
+Single search time: 1999 nanoseconds.
+Average search time: 356 nanoseconds.

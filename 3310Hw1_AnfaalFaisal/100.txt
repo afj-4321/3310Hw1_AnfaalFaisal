@@ -1,0 +1,13 @@
+n= 100
+Linear search.
+Searching for Rare Warden Scepter...
+Found in bag 20, slot 12. Strength: 837.
+Single search time: 114314 nanoseconds.
+Average search time: 2551 nanoseconds.
+Simple sort time: 1931335
+Multi-Merge Sort time: 1168776132
+Binary search.
+Searching for Rare Lionguard Staff...
+Found in bag 55469, slot 18. Strength: 630.
+Single search time: 12861 nanoseconds.
+Average search time: 268 nanoseconds.
